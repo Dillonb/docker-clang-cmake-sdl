@@ -1,4 +1,4 @@
-#!/usr/bin/env bash -l
+#!/usr/bin/env bash
 set -e
 mkdir -p clang-build
 pushd clang-build
