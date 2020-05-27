@@ -1,0 +1,5 @@
+name: 'CMake build'
+description: 'Build using CMake with both GCC and Clang'
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
